@@ -1,5 +1,5 @@
-\![Name](https://github.com/2211shubham/2211shubham/blob/master/Hello(1).gif)
-![Name](https://github.com/2211shubham/2211shubham/blob/master/Screenshot (5).png)
+\![Name](Hello(1).gif)
+![Name](Screenshot (5).png)
 
 
  ### Profile Views :<br>
