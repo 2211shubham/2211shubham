@@ -8,7 +8,7 @@
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<img src="https://img.shields.io/badge/yobasu2015@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="ss.shubham.2211@gmail.com">   <a  href="https://www.instagram.com/official.shubham.sharma/"><img src="https://img.shields.io/badge/@sharannyo_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/2211shubham/"><img src="https://img.shields.io/badge/Sharannyo Basu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/ss.shubham.2211@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="ss.shubham.2211@gmail.com">   <a  href="https://www.instagram.com/official.shubham.sharma/"><img src="https://img.shields.io/badge/@official.shubham.2211@gmail.com-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/2211shubham/"><img src="https://img.shields.io/badge/Shubham Sharma-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 ### Here are some ideas to help you get started:
 
