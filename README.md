@@ -1,5 +1,6 @@
 ![Name](Hello(1).gif)
-# Shubham Sharma
+
+![Name](name.png)
 
 
  ### Profile Views :<br>
