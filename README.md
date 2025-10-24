@@ -2,8 +2,7 @@
 ![Name](name.png)
 
 
- ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/2211shubham/count.svg" />
+
 
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
@@ -12,10 +11,10 @@
 
 ### Here are some ideas to help you get started:
 
-- 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
-- 🌱 I’m currently learning <strong>React JS</strong>
-- 🔍 I’m looking to collaborate on <strong>Full Stack Web Dev Projects</strong>
-- 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, React, MongoDB and Express</strong>
+- 🔭 I’m currently working on <strong>Azure Devops</strong> and <strong>Open Source Contributions</strong>
+- 🌱 I’m currently learning <strong>Terraform</strong>
+- 🔍 I’m looking to collaborate on <strong>Devops Projects</strong>
+- 💬 Ask me about <strong>Azure, Docker, Kubernetes, Linux, Scripting</strong>
 - ⚡ Fun fact: I can talk 24/7 about anime.
 
 ### Tools I work upon : 🛠
